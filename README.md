@@ -32,8 +32,8 @@ Code
 
 📸 Output
 
-(Add scre<img width="818" height="579" alt="Screenshot from 2026-02-16 13-32-46" src="https://github.com/user-attachments/assets/f4dfeb2f-8340-4973-a5d7-bd562a8aad76" />
-enshot here)
+<img width="818" height="579" alt="Screenshot from 2026-02-16 13-32-46" src="https://github.com/user-attachments/assets/f4dfeb2f-8340-4973-a5d7-bd562a8aad76" />
+
 
 ⭐ Author
    
